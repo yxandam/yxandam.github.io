@@ -3,7 +3,7 @@ title: 专注深度学习-图像处理
 author: 逐梦
 email: 1273137084@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-- 专注于深度学习、图像处理，本站分享大量深度学习相关的案例和咨询。
+#- 专注于深度学习、图像处理，本站分享大量深度学习相关的案例和咨询。
 
 # Site URL NOTE: if your site is base on subdir /blog you should change base to "/blog"
 domain: "http://yourdomain.github.io" # the domain URL for your site
